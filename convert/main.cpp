@@ -4,7 +4,7 @@
 #include <exception>
 #include <stdexcept>
 #include <limits>
-#include <G:\C++\lab3\punct6\convert\realiz.h>
+#include <E:\C++\lab3\workcplus\convert\realiz.h>
 using std::cout;
 using std::endl;
 using std::cin;
