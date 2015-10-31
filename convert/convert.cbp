@@ -32,9 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="G:/C++/lab3/punct6/convert/converting.cpp" />
-		<Unit filename="G:/C++/lab3/punct6/convert/realiz.h" />
+		<Unit filename="converting.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="realiz.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
