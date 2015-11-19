@@ -35,6 +35,8 @@
 		<Unit filename="converting.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="realiz.h" />
+		<Unit filename="sdt.h" />
+		<Unit filename="temp.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
